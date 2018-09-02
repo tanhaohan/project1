@@ -1,5 +1,12 @@
 # project1
-aaa
-eee
+aabbb<<<<<<< .mine
 ccc
 fff
+
+
+=======
+ccc
+ddd
+
+
+>>>>>>> .theirs
