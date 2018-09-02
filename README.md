@@ -2,12 +2,6 @@
 
 ffffff
 fffffffff
-fffffffff
-fffffffff
-ffffff
-
-
-cccc
 cccc
 cccc
 ccc
